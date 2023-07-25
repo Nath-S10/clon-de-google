@@ -6,11 +6,11 @@ Puedes poner en práctica tus habilidades revisando y utilizando el código a co
 
 ## ÍNDICE 🌱
 
-* [1. Intro](https://github.com/malibb/clon-de-google/tree/main#1intro)
-* [2. Demo](https://github.com/malibb/clon-de-google/tree/main#2-demo)
-* [3. ¿Qué construirás?](https://github.com/malibb/clon-de-google/tree/main#3-qu%C3%A9-construir%C3%A1s)
-* [4. Objetivos de aprendizaje](https://github.com/malibb/clon-de-google/tree/main#4-objetivos-de-aprendizaje)
-* [5. Requisitos](https://github.com/malibb/clon-de-google/tree/main#5-requisitos)
+* [1. Intro](https://github.com/Nath-S10/clon-de-google/edit/main/README.md#1intro-)
+* [2. Demo](https://github.com/Nath-S10/clon-de-google/edit/main/README.md#2-demo-)
+* [3. ¿Qué construirás?](https://github.com/Nath-S10/clon-de-google/edit/main/README.md#3-qu%C3%A9-construir%C3%A1s-)
+* [4. Objetivos de aprendizaje](https://github.com/Nath-S10/clon-de-google/edit/main/README.md#4-objetivos-de-aprendizaje-)
+* [5. Requisitos](https://github.com/Nath-S10/clon-de-google/edit/main/README.md#4-objetivos-de-aprendizaje-)
 
 ****
 
